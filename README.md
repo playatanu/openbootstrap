@@ -1,23 +1,40 @@
 # ownbootstrap
-https://github.com/playatanu/ownbootstrap/blob/a85aa42909f41eca6c008bbd8fea16ab1c1817c7/style.css
+## CSS
+Copy-paste the stylesheet <link> into your <head> before all other stylesheets to load our CSS.
+  
+  
+  
+  
+  
+  
+ 
 
-<pre> <div class="card">
-                    <div class="card-image-text">
-                        <img class="card-image"
-                            src="..."
-                            alt="Girl in a jacket">
-                        <p class="card-catagory">hello</p>
-                    </div>
+     <link rel="stylesheet" type="text/css" href="https://drive.google.com/uc?id=19A3rtYJk5rWUtWLKvS4onOEOy10Ahf8R">
 
-                    <div class="card-info">
-                        <h3 class="card-date">March 20 2021</h3>
-                        <h2 class="card-title">3What happenend in Thailand ? </h2>
-                        <p class="card-dec">What happenend in Thailand What happenend in Thailand What happenend in
-                            Thailand What
-                            happenend in Thailand. </p>
-                        <div class="card-button">
-                            <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>
-                            <p>Find out more</p>
-                        </div>
-                    </div>
-                </div> </pre>
+
+
+
+## Starter template
+Be sure to have your pages set up with the latest design and development standards. That means using an HTML5 doctype and including a viewport meta tag for proper responsive behaviors. Put it all together and your pages should look like this:  
+  
+                <!doctype html>
+          <html lang="en">
+
+          <head>
+              <!-- Required meta tags -->
+              <meta charset="utf-8">
+              <meta name="viewport" content="width=device-width, initial-scale=1">
+
+              <!-- Own Bootstrap CSS -->
+              <link rel="stylesheet" type="text/css" href="https://drive.google.com/uc?id=19A3rtYJk5rWUtWLKvS4onOEOy10Ahf8R">
+
+              <title>Own Bootstraps</title>
+          </head>
+
+          <body>
+              <h1>Hello, world!</h1>
+
+
+          </body>
+
+          </html>
