@@ -1,0 +1,91 @@
+body {
+  background-color: #ffffff;
+}
+
+/* card css start */
+
+.card {
+  width: 300px;
+  height: 500px;
+
+  background-color: #ffffff;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card-image-text {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.card-image {
+  width: 300px;
+  height: 200px;
+  object-fit: fill;
+}
+
+.card-catagory {
+  color: rgb(255, 255, 255);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  position: absolute;
+  top: 0px;
+  left: 15px;
+}
+
+.card-info {
+  margin: 20px;
+  align-items: center;
+}
+
+.card-date {
+  font-size: 12px;
+  color: darkgray;
+  font-family: Sans-Serif;
+}
+
+.card-title {
+  font-family: Sans-Serif;
+  font-size: 22px;
+}
+
+.card-dec {
+  font-family: Sans-Serif;
+  font-size: 10px;
+  word-spacing: 1px;
+}
+
+.card-button {
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  color: #340faf;
+  font-family: Sans-Serif;
+}
+
+.fa {
+  margin-right: 10px;
+}
+
+/* card css end */
+
+/* row view start  */
+
+.container {
+  align-items: center;
+  position: relative;
+  text-align: center;
+}
+.row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  grid-gap: 1rem;
+}
+
+.col {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* row view end */
