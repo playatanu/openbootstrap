@@ -48,7 +48,7 @@ Be sure to have your pages set up with the latest design and development standar
 ```
   
 ## Cards 
-OwnBootstrap’s cards provide a flexible and extensible content container with multiple variants and options.
+Open Bootstrap’s cards provide a flexible and extensible content container with multiple variants and options.
 
 <img align="left"  width="300" height="530"  src="https://github.com/playatanu/Ownbootstrap/blob/main/assets/card.PNG?raw=true" alt="card">
 
