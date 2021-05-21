@@ -47,12 +47,13 @@ XComponents, a collection of element-specific CSS changes in a single file, kick
 
  
 ## Text
-Open Bootstrap’s text style provide a flexible and extensible content container with multiple variants and options.
+Open Bootstrap’s text style provides a flexible and extensible content container with multiple variants and options.
 
-<img align="left"  width="220" height="300"  src="https://github.com/playatanu/openbootstrap/blob/main/assets/text.PNG?raw=true" alt="card">
-
+<img align="left"  width="280" height="430"  src="https://github.com/playatanu/openbootstrap/blob/main/assets/text.PNG?raw=true" alt="card">
 
 ```
+  
+
 
     <h0>This is heading 0</h0>
     <h1>This is heading 1</h1>
@@ -68,7 +69,12 @@ Open Bootstrap’s text style provide a flexible and extensible content containe
     <br><br>
     <px>This is a highlited paragraph</px>
 
+
+   
+              
+  
 ```
+
 ## Cards 
 Open Bootstrap’s cards provide a flexible and extensible content container with multiple variants and options.
 
