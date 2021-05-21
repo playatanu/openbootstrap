@@ -2,24 +2,12 @@
 Get started with Open Bootstrap, the world’s most popular framework for building responsive, mobile-first sites, with template starter page.
 ## CSS
 Copy-paste the stylesheet <link> into your <head> before all other stylesheets to load our CSS.
-  
-  
-  
-  
-  
-  
- 
-
+ ```
      <link rel="stylesheet" type="text/css" href="https://drive.google.com/uc?id=19A3rtYJk5rWUtWLKvS4onOEOy10Ahf8R">
-
-
-
-
+  ```
 ## Open Bootstrap Starter template
-Be sure to have your pages set up with the latest design and development standards. That means using an HTML5 doctype and including a viewport meta tag for proper responsive behaviors. Put it all together and your pages should look like this:  
-  
-```
-  
+Be sure to have your pages set up with the latest design and development standards. That means using an HTML5 doctype and including a viewport meta tag for proper responsive behaviors. Put it all together and your pages should look like this:    
+``` 
 <!doctype html>
 <html lang="en">
 
@@ -43,13 +31,14 @@ Be sure to have your pages set up with the latest design and development standar
 </body>
 
 </html>
-
-
 ```
- 
+  
+ ## XComponents 
+XComponents, a collection of element-specific CSS changes in a single file, kickstart Open Bootstrap to provide an elegant, consistent, and simple baseline to build upon.
+  
+- [Headings and paragraphs](#text)  
 - [Cards](#cards)
-- [Text](#text)
-- Thomas Jefferson 
+
   
 
   
