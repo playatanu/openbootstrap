@@ -1,4 +1,5 @@
 # Open Bootstrap
+Get started with Open Bootstrap, the world’s most popular framework for building responsive, mobile-first sites, with template starter page.
 ## CSS
 Copy-paste the stylesheet <link> into your <head> before all other stylesheets to load our CSS.
   
