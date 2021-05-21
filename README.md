@@ -33,7 +33,7 @@ Be sure to have your pages set up with the latest design and development standar
 </html>
 ```
   
- ## XComponents 
+## XComponents 
 XComponents, a collection of element-specific CSS changes in a single file, kickstart Open Bootstrap to provide an elegant, consistent, and simple baseline to build upon.
   
 - [Headings and paragraphs](#text)  
@@ -41,9 +41,34 @@ XComponents, a collection of element-specific CSS changes in a single file, kick
 
   
 
+  <br><br> <br><br> <br><br>
   
   
-  
+
+ 
+## Text
+Open Bootstrap’s text style provide a flexible and extensible content container with multiple variants and options.
+
+<img align="left"  width="220" height="300"  src="https://github.com/playatanu/openbootstrap/blob/main/assets/text.PNG?raw=true" alt="card">
+
+
+```
+
+    <h0>This is heading 0</h0>
+    <h1>This is heading 1</h1>
+    <h2>This is heading 2</h2>
+    <h3>This is heading 3</h3>
+    <h4>This is heading 4</h4>
+    <h5>This is heading 5</h5>
+    <h6>This is heading 6</h6>
+
+
+    <p>This is a paragraph</p>
+    <p_>This is a underline paragraph</p_>
+    <br><br>
+    <px>This is a highlited paragraph</px>
+
+```
 ## Cards 
 Open Bootstrap’s cards provide a flexible and extensible content container with multiple variants and options.
 
@@ -71,37 +96,6 @@ Open Bootstrap’s cards provide a flexible and extensible content container wit
             </div>
         </div>
     </div>
-              
-  
-```
-
- 
-## Text
-Open Bootstrap’s text style provide a flexible and extensible content container with multiple variants and options.
-
-<img align="left"  width="280" height="430"  src="https://github.com/playatanu/openbootstrap/blob/main/assets/text.PNG?raw=true" alt="card">
-
-
-```
-  
-
-
-    <h0>This is heading 0</h0>
-    <h1>This is heading 1</h1>
-    <h2>This is heading 2</h2>
-    <h3>This is heading 3</h3>
-    <h4>This is heading 4</h4>
-    <h5>This is heading 5</h5>
-    <h6>This is heading 6</h6>
-
-
-    <p>This is a paragraph</p>
-    <p_>This is a underline paragraph</p_>
-    <br><br>
-    <px>This is a highlited paragraph</px>
-
-
-   
               
   
 ```
