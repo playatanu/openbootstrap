@@ -50,7 +50,7 @@ Be sure to have your pages set up with the latest design and development standar
 ## Cards 
 Open Bootstrap’s cards provide a flexible and extensible content container with multiple variants and options.
 
-<img align="left"  width="300" height="530"  src="https://github.com/playatanu/Ownbootstrap/blob/main/assets/card.PNG?raw=true" alt="card">
+<img align="left"  width="250" height="460"  src="https://github.com/playatanu/Ownbootstrap/blob/main/assets/card.PNG?raw=true" alt="card">
 
 
 ```
@@ -77,12 +77,12 @@ Open Bootstrap’s cards provide a flexible and extensible content container wit
               
   
 ```
-  <br> <br> <br>
- 
-## Texts
-Open Bootstrap’s texts style provide a flexible and extensible content container with multiple variants and options.
 
-<img align="left"  width="250" height="480"  src="https://github.com/playatanu/openbootstrap/blob/main/assets/text.PNG?raw=true" alt="card">
+ 
+## Text
+Open Bootstrap’s text style provide a flexible and extensible content container with multiple variants and options.
+
+<img align="left"  width="280" height="430"  src="https://github.com/playatanu/openbootstrap/blob/main/assets/text.PNG?raw=true" alt="card">
 
 
 ```
