@@ -77,8 +77,39 @@ Open Bootstrap’s cards provide a flexible and extensible content container wit
               
   
 ```
+  <br> <br> <br>
+ 
+## Texts
+Open Bootstrap’s texts style provide a flexible and extensible content container with multiple variants and options.
 
+<img align="left"  width="250" height="480"  src="https://github.com/playatanu/openbootstrap/blob/main/assets/text.PNG?raw=true" alt="card">
+
+
+```
   
+
+
+    <h0>This is heading 0</h0>
+    <h1>This is heading 1</h1>
+    <h2>This is heading 2</h2>
+    <h3>This is heading 3</h3>
+    <h4>This is heading 4</h4>
+    <h5>This is heading 5</h5>
+    <h6>This is heading 6</h6>
+
+
+    <p>This is a paragraph</p>
+    <p_>This is a underline paragraph</p_>
+    <br><br>
+    <px>This is a highlited paragraph</px>
+
+
+   
+              
+  
+```
+
+    
   
   
   
