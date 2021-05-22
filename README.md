@@ -36,8 +36,10 @@ Be sure to have your pages set up with the latest design and development standar
 ## XComponents 
 XComponents, a collection of element-specific CSS changes in a single file, kickstart Open Bootstrap to provide an elegant, consistent, and simple baseline to build upon.
   
-- [Headings and paragraphs](#text)  
+- [Headings and paragraphs](#text)
+- [Tables](#table)
 - [Cards](#cards)
+
 
   
 
@@ -74,7 +76,42 @@ Open Bootstrap’s text style provides a flexible and extensible content contain
               
   
 ```
+ 
+## Table
+ 
+ Open Bootstrap’s Tables provide a flexible and extensible content container with multiple variants and options.
 
+<img align="center"  width="1800" height="200"  src="https://github.com/playatanu/openbootstrap/blob/main/assets/tables.PNG?raw=true" alt="tables">
+
+
+
+``` 
+ <table>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Points</th>
+        </tr>
+        <tr>
+            <td>Jill</td>
+            <td>Smith</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>Eve</td>
+            <td>Jackson</td>
+            <td>94</td>
+        </tr>
+        <tr>
+            <td>Adam</td>
+            <td>Johnson</td>
+            <td>67</td>
+        </tr>
+    </table>
+```
+ 
+ 
+ 
 ## Cards 
 Open Bootstrap’s cards provide a flexible and extensible content container with multiple variants and options.
 
